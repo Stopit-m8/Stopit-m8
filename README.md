@@ -1,161 +1,106 @@
-# 👋 Hey, I'm Sunelsen Sentanu Surya!
+# 👋 Hey, I'm [Your Name]!
 
 🎮 **Game Developer | Unity | C#**
 
-I'm a game developer passionate about creating games and experimenting with gameplay systems, mechanics, and interactive experiences.
+I'm a game developer interested in creating interactive experiences and experimenting with gameplay, systems, and game design.
 
-Currently working with **Unity and C#**, while exploring different genres, game systems, and ways to make games more engaging.
+I mainly work with **Unity and C#**, with a focus on 2D games and gameplay programming.
 
 ---
 
 ## 🛠️ Skills & Tools
 
-**Game Development**
-
-* 🎮 Unity
-* 💻 C#
-* 🧩 Gameplay Programming
-* 🎨 2D Game Development
-* 🖥️ UI / UX
-
-**Tools**
-
-* Git / GitHub
-* Aseprite
-* Visual Studio / Rider
-* [Other Tools]
+| Category           | Technologies          |
+| ------------------ | --------------------- |
+| 🎮 Game Engine     | Unity                 |
+| 💻 Programming     | C#                    |
+| 🎨 Art             | Aseprite / Photoshop  |
+| 🔀 Version Control | Git / GitHub          |
+| 🖥️ IDE            | Visual Studio / Rider |
 
 ---
 
-## 🎮 Projects
+# 🎮 Projects
 
-### 🍽️ [Project Name]
+<table>
+<tr>
+<td width="50%">
 
-<p align="center">
-  <img src="YOUR_GAMEPLAY_GIF_OR_IMAGE_URL" width="800">
-</p>
+### 🍽️ Project Name
 
-**Genre:** Simulation · Cozy
-**Style:** Stylized Pixel Art
-**Perspective:** 2D Side View
-**Engine:** Unity
-**Language:** C#
+<img src="YOUR_GAMEPLAY_GIF_OR_IMAGE_URL" width="100%">
 
-> A short description of the game. Explain the main idea, what the player does, and what makes the project interesting.
+**Simulation · Cozy · 2D**
 
-### ✨ Features
+A short one or two sentence description of your game. Explain the core gameplay and what the player does.
 
-* Feature / mechanic 1
-* Feature / mechanic 2
-* Feature / mechanic 3
-* Feature / mechanic 4
+**Unity · C#**
 
-**What I worked on**
+🔗 **[More About This Game →](./ProjectName/README.md)**
 
-* Gameplay systems
-* Player interactions
-* UI systems
-* [Other contributions]
+</td>
 
-🔗 **[View Repository](YOUR_REPOSITORY_LINK)**
-🎮 **[Play Game](YOUR_GAME_LINK)**
+<td width="50%">
 
----
+### 🏭 Project Name
 
-### 🏭 [Project Name]
+<img src="YOUR_GAMEPLAY_GIF_OR_IMAGE_URL" width="100%">
 
-<p align="center">
-  <img src="YOUR_GAMEPLAY_GIF_OR_IMAGE_URL" width="800">
-</p>
+**Simulation · Serious Game**
 
-**Genre:** Simulation · Serious Game
-**Theme:** Sustainability
-**Engine:** Unity
-**Language:** C#
+A short one or two sentence description of your game. Explain the core gameplay and what the player does.
 
-> A short description of the game and its main gameplay concept.
+**Unity · C#**
 
-### ✨ Features
+🔗 **[More About This Game →](./ProjectName/README.md)**
 
-* Feature / mechanic 1
-* Feature / mechanic 2
-* Feature / mechanic 3
-* Feature / mechanic 4
+</td>
+</tr>
 
-**What I worked on**
+<tr>
+<td width="50%">
 
-* Gameplay systems
-* Simulation systems
-* UI
-* [Other contributions]
+### 🌆 Project Name
 
-🔗 **[View Repository](YOUR_REPOSITORY_LINK)**
-🎮 **[Play Game](YOUR_GAME_LINK)**
+<img src="YOUR_GAMEPLAY_GIF_OR_IMAGE_URL" width="100%">
 
----
+**Simulation · Strategy · 2D**
 
-### 🌆 [Project Name]
+A short one or two sentence description of your game. Explain the core gameplay and what the player does.
 
-<p align="center">
-  <img src="YOUR_GAMEPLAY_GIF_OR_IMAGE_URL" width="800">
-</p>
+**Unity · C#**
 
-**Genre:** Simulation · Serious Game
-**Theme:** Smart City / Disaster Mitigation
-**Engine:** Unity
-**Language:** C#
+🔗 **[More About This Game →](./ProjectName/README.md)**
 
-> A short description of the game and its main gameplay concept.
+</td>
 
-### ✨ Features
+<td width="50%">
 
-* Feature / mechanic 1
-* Feature / mechanic 2
-* Feature / mechanic 3
-* Feature / mechanic 4
+### 🎮 Project Name
 
-**What I worked on**
+<img src="YOUR_GAMEPLAY_GIF_OR_IMAGE_URL" width="100%">
 
-* Gameplay programming
-* Systems programming
-* UI
-* [Other contributions]
+**Action · Platformer · 2D**
 
-🔗 **[View Repository](YOUR_REPOSITORY_LINK)**
-🎮 **[Play Game](YOUR_GAME_LINK)**
+A short one or two sentence description of your game. Explain the core gameplay and what the player does.
 
----
+**Unity · C#**
 
-### 🎮 [Project Name]
+🔗 **[More About This Game →](./ProjectName/README.md)**
 
-<p align="center">
-  <img src="YOUR_GAMEPLAY_GIF_OR_IMAGE_URL" width="800">
-</p>
-
-**Genre:** [Genre]
-**Engine:** Unity
-**Language:** C#
-
-> A short description of the project.
-
-### ✨ Features
-
-* Feature / mechanic 1
-* Feature / mechanic 2
-* Feature / mechanic 3
-
-🔗 **[View Repository](YOUR_REPOSITORY_LINK)**
-🎮 **[Play Game](YOUR_GAME_LINK)**
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📚 Currently Learning
 
 * Advanced Unity systems
-* Game architecture
 * Gameplay programming
+* Game architecture
 * AI & NPC systems
-* Game UI / UX
+* UI / UX
 * [Something else]
 
 ---
@@ -169,5 +114,5 @@ Currently working with **Unity and C#**, while exploring different genres, game 
 ---
 
 <p align="center">
-  <i>Thanks for stopping by! 🎮</i>
+  <i>Making games, one system at a time 🎮</i>
 </p>
