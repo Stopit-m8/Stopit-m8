@@ -1,6 +1,6 @@
-# 👋 Hey, I'm [Your Name]!
+# 👋 Hey, I'm Sunelsen Sentanu Surya!
 
-🎮 **Game Developer | Unity | C#**
+🎮 **Game Programmer | Unity | C#**
 
 I'm a game developer interested in creating interactive experiences and experimenting with gameplay, systems, and game design.
 
@@ -81,6 +81,78 @@ A short one or two sentence description of your game. Explain the core gameplay 
 </table>
 
 ---
+
+# 🎮 My Other Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🍽️ Project Name
+
+<img src="YOUR_GAMEPLAY_GIF_OR_IMAGE_URL" width="100%">
+
+**Simulation · Cozy · 2D**
+
+A short one or two sentence description of your game. Explain the core gameplay and what the player does.
+
+**Unity · C#**
+
+🔗 **[More About This Game →](./ProjectName/README.md)**
+
+</td>
+
+<td width="50%">
+
+### 🏭 Project Name
+
+<img src="YOUR_GAMEPLAY_GIF_OR_IMAGE_URL" width="100%">
+
+**Simulation · Serious Game**
+
+A short one or two sentence description of your game. Explain the core gameplay and what the player does.
+
+**Unity · C#**
+
+🔗 **[More About This Game →](./ProjectName/README.md)**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌆 Project Name
+
+<img src="YOUR_GAMEPLAY_GIF_OR_IMAGE_URL" width="100%">
+
+**Simulation · Strategy · 2D**
+
+A short one or two sentence description of your game. Explain the core gameplay and what the player does.
+
+**Unity · C#**
+
+🔗 **[More About This Game →](./ProjectName/README.md)**
+
+</td>
+
+<td width="50%">
+
+### 🎮 Project Name
+
+<img src="YOUR_GAMEPLAY_GIF_OR_IMAGE_URL" width="100%">
+
+**Action · Platformer · 2D**
+
+A short one or two sentence description of your game. Explain the core gameplay and what the player does.
+
+**Unity · C#**
+
+🔗 **[More About This Game →](./ProjectName/README.md)**
+
+</td>
+</tr>
+</table>
 
 ## 📚 Currently Learning
 
