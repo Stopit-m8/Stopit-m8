@@ -2,9 +2,9 @@
 
 🎮 **Game Programmer | Unity | C#**
 
-I'm a game developer interested in creating interactive experiences and experimenting with gameplay, systems, and game design.
-
-I mainly work with **Unity and C#**, with a focus on 2D games and gameplay programming.
+I am an undergraduate that has 1 year of experience using Unity.
+- Binus University student
+- Want to become Game Programmer
 
 ---
 
@@ -174,5 +174,5 @@ A short one or two sentence description of your game. Explain the core gameplay 
 ---
 
 <p align="center">
-  <i>Making games, one system at a time 🎮</i>
+  <i>Making games, one braincell at a time 🎮</i>
 </p>
