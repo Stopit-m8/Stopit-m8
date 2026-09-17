@@ -6,7 +6,7 @@ I'm a game developer interested in creating interactive experiences and experime
 
 I mainly work with **Unity and C#**, with a focus on 2D games and gameplay programming.
 
-
+---
 
 # 🎮 Projects
 
