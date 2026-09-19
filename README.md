@@ -2,9 +2,11 @@
 
 🎮 **Game Programmer | Unity | C#**
 
-I am an undergraduate that has 1 year of experience using Unity.
-- Binus University student
-- Want to become Game Programmer
+I am a BINUS undergraduate aspiring to become a game developer.
+
+I primarily work with Unity and C#, while also exploring the creative side of game development. I enjoy both programming gameplay systems and designing game mechanics and stories, especially thinking about how they can work together to create a long-lasting experience for players.
+
+I am always looking to improve my skills, experiment with new ideas, and create games that are both enjoyable and meaningful.
 
 ---
 
