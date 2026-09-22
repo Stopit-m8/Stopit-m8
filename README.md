@@ -20,7 +20,7 @@ I am always looking to improve my skills, experiment with new ideas, and create 
 
 ### Tan-Go
 
-<img src="YOUR_GAMEPLAY_GIF_OR_IMAGE_URL" width="100%">
+<img src="Images/TanGo.gif" width="100%">
 
 **Boardgame · Cozy · 2D**
 
