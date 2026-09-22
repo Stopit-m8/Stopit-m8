@@ -18,13 +18,13 @@ I am always looking to improve my skills, experiment with new ideas, and create 
 <tr>
 <td width="50%">
 
-### 🍽️ Project Name
+### Tan-Go
 
 <img src="YOUR_GAMEPLAY_GIF_OR_IMAGE_URL" width="100%">
 
-**Simulation · Cozy · 2D**
+**Boardgame · Cozy · 2D**
 
-A short one or two sentence description of your game. Explain the core gameplay and what the player does.
+A 2D local multiplayer boardgame that incorporates Japanese Hiragana as a movement system, requiring players to recognize and use Hiragana words to navigate the game board.
 
 **Unity · C#**
 
@@ -34,13 +34,13 @@ A short one or two sentence description of your game. Explain the core gameplay 
 
 <td width="50%">
 
-### 🏭 Project Name
+### Karoshi: The Perfect Shell
 
-<img src="YOUR_GAMEPLAY_GIF_OR_IMAGE_URL" width="100%">
+<img src="Images/Karoshi.gif" width="100%">
 
-**Simulation · Serious Game**
+**psychological horror · Narative · 2D**
 
-A short one or two sentence description of your game. Explain the core gameplay and what the player does.
+A 2D narrative psychological horror game that explores the subconscious mind of a high school girl named Nara, whose soul has been shattered by social expectations and the fear of failure.
 
 **Unity · C#**
 
@@ -52,13 +52,13 @@ A short one or two sentence description of your game. Explain the core gameplay 
 <tr>
 <td width="50%">
 
-### 🌆 Project Name
+### Cold Core
 
-<img src="YOUR_GAMEPLAY_GIF_OR_IMAGE_URL" width="100%">
+<img src="Images/ColdCore.gif" width="100%">
 
-**Simulation · Strategy · 2D**
+**Run and Gun · Platformer · 2D**
 
-A short one or two sentence description of your game. Explain the core gameplay and what the player does.
+A 2D Platformer Action Shooter, Where players play as Rogue AI Military Mech
 
 **Unity · C#**
 
@@ -68,13 +68,13 @@ A short one or two sentence description of your game. Explain the core gameplay 
 
 <td width="50%">
 
-### 🎮 Project Name
+### TP Jumper
 
-<img src="YOUR_GAMEPLAY_GIF_OR_IMAGE_URL" width="100%">
+<img src="Images/TPJumper.gif" width="100%">
 
-**Action · Platformer · 2D**
+**Platformer · 2D**
 
-A short one or two sentence description of your game. Explain the core gameplay and what the player does.
+A 2D platformer where the player can shoot a ball that can make them teleport on certain places
 
 **Unity · C#**
 
@@ -163,16 +163,14 @@ A short one or two sentence description of your game. Explain the core gameplay 
 * Advanced Unity systems
 * Gameplay programming
 * Game architecture
-* AI & NPC systems
-* UI / UX
-* [Something else]
+* 3D programming
 
 ---
 
 ## 📫 Contact
 
 * 💼 GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-* 📧 Email: YOUR_EMAIL
+* 📧 Email: sunelsensurya@gmail.com
 * 🎮 itch.io: [YOUR_USERNAME](YOUR_ITCHIO_LINK)
 
 ---
