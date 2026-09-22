@@ -169,9 +169,9 @@ A short one or two sentence description of your game. Explain the core gameplay 
 
 ## 📫 Contact
 
-* 💼 GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+* 💼 GitHub: Stopit-m8(https://github.com/Stopit-m8)
 * 📧 Email: sunelsensurya@gmail.com
-* 🎮 itch.io: [YOUR_USERNAME](YOUR_ITCHIO_LINK)
+* 🎮 itch.io: Stopitm8(https://stopitm8.itch.io/)
 
 ---
 
