@@ -22,6 +22,8 @@ A 2D local multiplayer boardgame that incorporates Japanese Hiragana as a moveme
 
 **Unity · C#**
 
+**Role: Programmer**
+
 🔗 **[More About This Game →](./ProjectName/README.md)**
 
 </td>
@@ -37,6 +39,8 @@ A 2D local multiplayer boardgame that incorporates Japanese Hiragana as a moveme
 A 2D narrative psychological horror game that explores the subconscious mind of a high school girl named Nara, whose soul has been shattered by social expectations and the fear of failure.
 
 **Unity · C#**
+
+**Role: Programmer**
 
 🔗 **[More About This Game →](./ProjectName/README.md)**
 
@@ -56,6 +60,8 @@ A 2D Platformer Action Shooter, Where players play as Rogue AI Military Mech
 
 **Unity · C#**
 
+**Role: Programmer**
+
 🔗 **[More About This Game →](./ProjectName/README.md)**
 
 </td>
@@ -71,6 +77,8 @@ A 2D Platformer Action Shooter, Where players play as Rogue AI Military Mech
 A 2D platformer where the player can shoot a ball that can make them teleport on certain places
 
 **Unity · C#**
+
+**Role: Programmer**
 
 🔗 **[More About This Game →](./ProjectName/README.md)**
 
@@ -96,6 +104,8 @@ A short one or two sentence description of your game. Explain the core gameplay 
 
 **Unity · C#**
 
+**Role: Programmer**
+
 🔗 **[More About This Game →](./ProjectName/README.md)**
 
 </td>
@@ -111,6 +121,8 @@ A short one or two sentence description of your game. Explain the core gameplay 
 A short one or two sentence description of your game. Explain the core gameplay and what the player does.
 
 **Unity · C#**
+
+**Role: Programmer**
 
 🔗 **[More About This Game →](./ProjectName/README.md)**
 
@@ -130,6 +142,8 @@ A short one or two sentence description of your game. Explain the core gameplay 
 
 **Unity · C#**
 
+**Role: Programmer**
+
 🔗 **[More About This Game →](./ProjectName/README.md)**
 
 </td>
@@ -145,6 +159,8 @@ A short one or two sentence description of your game. Explain the core gameplay 
 A short one or two sentence description of your game. Explain the core gameplay and what the player does.
 
 **Unity · C#**
+
+**Role: Programmer**
 
 🔗 **[More About This Game →](./ProjectName/README.md)**
 
