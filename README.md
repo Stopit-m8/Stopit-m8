@@ -11,7 +11,7 @@ I am a BINUS undergraduate specializing in game programming, with a goal of purs
 <table>
 <tr>
 <td width="50%">
-
+  
 ### Tan-Go
 
 <img src="Images/TanGo.gif" width="100%">
@@ -24,7 +24,17 @@ A 2D local multiplayer boardgame that incorporates Japanese Hiragana as a moveme
 
 **Role: Programmer**
 
-🔗 **[More About This Game →](./ProjectName/README.md)**
+<div align = center>
+  <a href="YOUR_DOCUMENTATION_LINK">
+    <img src="https://img.shields.io/badge/📖%20Documentation-555555?style=for-the-badge" height="30">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://stopitm8.itch.io/tan-go">
+    <img src="https://static.itch.io/images/badge-color.svg" width="120">
+  </a>
+</div>
 
 </td>
 
@@ -42,7 +52,17 @@ A 2D narrative psychological horror game that explores the subconscious mind of 
 
 **Role: Programmer**
 
-🔗 **[More About This Game →](./ProjectName/README.md)**
+<div align = center>
+  <a href="YOUR_DOCUMENTATION_LINK">
+    <img src="https://img.shields.io/badge/📖%20Documentation-555555?style=for-the-badge" height="30">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://stopitm8.itch.io/tan-go">
+    <img src="https://static.itch.io/images/badge-color.svg" width="120">
+  </a>
+</div>
 
 </td>
 </tr>
@@ -62,7 +82,17 @@ A 2D Platformer Action Shooter, Where players play as Rogue AI Military Mech
 
 **Role: Programmer**
 
-🔗 **[More About This Game →](./ProjectName/README.md)**
+<div align = center>
+  <a href="YOUR_DOCUMENTATION_LINK">
+    <img src="https://img.shields.io/badge/📖%20Documentation-555555?style=for-the-badge" height="30">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://stopitm8.itch.io/tan-go">
+    <img src="https://static.itch.io/images/badge-color.svg" width="120">
+  </a>
+</div>
 
 </td>
 
@@ -80,7 +110,17 @@ A 2D platformer where the player can shoot a ball that can make them teleport on
 
 **Role: Programmer**
 
-🔗 **[More About This Game →](./ProjectName/README.md)**
+<div align = center>
+  <a href="YOUR_DOCUMENTATION_LINK">
+    <img src="https://img.shields.io/badge/📖%20Documentation-555555?style=for-the-badge" height="30">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://stopitm8.itch.io/tan-go">
+    <img src="https://static.itch.io/images/badge-color.svg" width="120">
+  </a>
+</div>
 
 </td>
 </tr>
@@ -106,7 +146,17 @@ A short one or two sentence description of your game. Explain the core gameplay 
 
 **Role: Programmer**
 
-🔗 **[More About This Game →](./ProjectName/README.md)**
+<div align = center>
+  <a href="YOUR_DOCUMENTATION_LINK">
+    <img src="https://img.shields.io/badge/📖%20Documentation-555555?style=for-the-badge" height="30">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://stopitm8.itch.io/tan-go">
+    <img src="https://static.itch.io/images/badge-color.svg" width="120">
+  </a>
+</div>
 
 </td>
 
@@ -124,7 +174,17 @@ A short one or two sentence description of your game. Explain the core gameplay 
 
 **Role: Programmer**
 
-🔗 **[More About This Game →](./ProjectName/README.md)**
+<div align = center>
+  <a href="YOUR_DOCUMENTATION_LINK">
+    <img src="https://img.shields.io/badge/📖%20Documentation-555555?style=for-the-badge" height="30">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://stopitm8.itch.io/tan-go">
+    <img src="https://static.itch.io/images/badge-color.svg" width="120">
+  </a>
+</div>
 
 </td>
 </tr>
@@ -144,7 +204,17 @@ A short one or two sentence description of your game. Explain the core gameplay 
 
 **Role: Programmer**
 
-🔗 **[More About This Game →](./ProjectName/README.md)**
+<div align = center>
+  <a href="YOUR_DOCUMENTATION_LINK">
+    <img src="https://img.shields.io/badge/📖%20Documentation-555555?style=for-the-badge" height="30">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://stopitm8.itch.io/tan-go">
+    <img src="https://static.itch.io/images/badge-color.svg" width="120">
+  </a>
+</div>
 
 </td>
 
@@ -162,7 +232,17 @@ A short one or two sentence description of your game. Explain the core gameplay 
 
 **Role: Programmer**
 
-🔗 **[More About This Game →](./ProjectName/README.md)**
+<div align = center>
+  <a href="YOUR_DOCUMENTATION_LINK">
+    <img src="https://img.shields.io/badge/📖%20Documentation-555555?style=for-the-badge" height="30">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://stopitm8.itch.io/tan-go">
+    <img src="https://static.itch.io/images/badge-color.svg" width="120">
+  </a>
+</div>
 
 </td>
 </tr>
