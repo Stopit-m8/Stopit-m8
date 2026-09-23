@@ -22,7 +22,7 @@ A 2D local multiplayer boardgame that incorporates Japanese Hiragana as a moveme
 
 **Unity · C#**
 
-**Role: Programmer**
+**Role: Programmer, Designer**
 
 <div align = center>
   <a href="YOUR_DOCUMENTATION_LINK">
@@ -108,7 +108,7 @@ A 2D platformer where the player can shoot a ball that can make them teleport on
 
 **Unity · C#**
 
-**Role: Programmer**
+**Role: Programmer, Designer**
 
 <div align = center>
   <a href="YOUR_DOCUMENTATION_LINK">
