@@ -2,13 +2,7 @@
 
 🎮 **Game Programmer | Unity | C#**
 
-I am a BINUS undergraduate specializing in game programming, with a goal of pursuing a career in game development.
-
-I am developing my programming skills in Unity and C#, with a focus on gameplay programming and developing game systems. I specialize in 2D game programming and is expanding my skills into 3D game programming.
-
-Beyond programming, I also enjoy the creative side of game development. I am interested in game design, particularly in designing game mechanics and stories, and exploring how they can work together to create long-lasting experiences for players.
-
-I am always looking to improve my skills, experiment with new ideas, and create games that are both enjoyable and meaningful.
+I am a BINUS undergraduate specializing in game programming, with a goal of pursuing a career in game development. I am developing my programming skills in Unity and C#, with a focus on gameplay programming and developing game systems. I specialize in 2D game programming and is expanding my skills into 3D game programming.
 
 ---
 
