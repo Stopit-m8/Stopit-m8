@@ -25,7 +25,7 @@ A 2D local multiplayer boardgame that incorporates Japanese Hiragana as a moveme
 **Role: Programmer, Designer**
 
 <div align = center>
-  <a href="YOUR_DOCUMENTATION_LINK">
+  <a href="https://github.com/Stopit-m8/Tan_Go">
     <img src="https://img.shields.io/badge/📖%20Documentation-555555?style=for-the-badge" height="30">
   </a>
 </div>
