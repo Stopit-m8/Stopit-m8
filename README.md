@@ -14,7 +14,7 @@ I am a BINUS undergraduate specializing in game programming, with a goal of purs
   
 ### Tan-Go
 
-<img src="Images/TanGo.gif" width="100%" style="border: 5px solid black; border-radius: 20px;">
+<img src="Images/TanGo.gif" width="100%">
 
 **Boardgame · Cozy · 2D**
 
