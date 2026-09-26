@@ -23,6 +23,7 @@ A 2D local multiplayer boardgame that incorporates Japanese Hiragana as a moveme
 **Unity · C#**
 
 **Role: Programmer, Designer**
+<br>**Duration: 20 Days**
 
 <div align = center>
   <a href="https://github.com/Stopit-m8/Tan_Go">
@@ -51,6 +52,7 @@ A 2D narrative psychological horror game that explores the subconscious mind of 
 **Unity · C#**
 
 **Role: Programmer**
+<br>**Duration: 22 Days**
 
 <div align = center>
   <a href="YOUR_DOCUMENTATION_LINK">
@@ -81,6 +83,7 @@ A 2D Platformer Action Shooter, Where players play as Rogue AI Military Mech
 **Unity · C#**
 
 **Role: Programmer**
+<br>**Duration: 7 Days**
 
 <div align = center>
   <a href="YOUR_DOCUMENTATION_LINK">
@@ -109,128 +112,7 @@ A 2D platformer where the player can shoot a ball that can make them teleport on
 **Unity · C#**
 
 **Role: Programmer, Designer**
-
-<div align = center>
-  <a href="YOUR_DOCUMENTATION_LINK">
-    <img src="https://img.shields.io/badge/📖%20Documentation-555555?style=for-the-badge" height="30">
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://stopitm8.itch.io/tan-go">
-    <img src="https://static.itch.io/images/badge-color.svg" width="120">
-  </a>
-</div>
-
-</td>
-</tr>
-</table>
-
----
-
-# 🎮 My Other Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🍽️ Project Name
-
-<img src="YOUR_GAMEPLAY_GIF_OR_IMAGE_URL" width="100%">
-
-**Simulation · Cozy · 2D**
-
-A short one or two sentence description of your game. Explain the core gameplay and what the player does.
-
-**Unity · C#**
-
-**Role: Programmer**
-
-<div align = center>
-  <a href="YOUR_DOCUMENTATION_LINK">
-    <img src="https://img.shields.io/badge/📖%20Documentation-555555?style=for-the-badge" height="30">
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://stopitm8.itch.io/tan-go">
-    <img src="https://static.itch.io/images/badge-color.svg" width="120">
-  </a>
-</div>
-
-</td>
-
-<td width="50%">
-
-### 🏭 Project Name
-
-<img src="YOUR_GAMEPLAY_GIF_OR_IMAGE_URL" width="100%">
-
-**Simulation · Serious Game**
-
-A short one or two sentence description of your game. Explain the core gameplay and what the player does.
-
-**Unity · C#**
-
-**Role: Programmer**
-
-<div align = center>
-  <a href="YOUR_DOCUMENTATION_LINK">
-    <img src="https://img.shields.io/badge/📖%20Documentation-555555?style=for-the-badge" height="30">
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://stopitm8.itch.io/tan-go">
-    <img src="https://static.itch.io/images/badge-color.svg" width="120">
-  </a>
-</div>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🌆 Project Name
-
-<img src="YOUR_GAMEPLAY_GIF_OR_IMAGE_URL" width="100%">
-
-**Simulation · Strategy · 2D**
-
-A short one or two sentence description of your game. Explain the core gameplay and what the player does.
-
-**Unity · C#**
-
-**Role: Programmer**
-
-<div align = center>
-  <a href="YOUR_DOCUMENTATION_LINK">
-    <img src="https://img.shields.io/badge/📖%20Documentation-555555?style=for-the-badge" height="30">
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://stopitm8.itch.io/tan-go">
-    <img src="https://static.itch.io/images/badge-color.svg" width="120">
-  </a>
-</div>
-
-</td>
-
-<td width="50%">
-
-### 🎮 Project Name
-
-<img src="YOUR_GAMEPLAY_GIF_OR_IMAGE_URL" width="100%">
-
-**Action · Platformer · 2D**
-
-A short one or two sentence description of your game. Explain the core gameplay and what the player does.
-
-**Unity · C#**
-
-**Role: Programmer**
+<br>**Duration: 7 Days**
 
 <div align = center>
   <a href="YOUR_DOCUMENTATION_LINK">
