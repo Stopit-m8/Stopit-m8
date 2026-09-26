@@ -6,7 +6,7 @@ I am a BINUS undergraduate specializing in game programming, with a goal of purs
 
 ---
 
-# 🎮 Projects
+# 🎮 Highlight Projects
 
 <table>
 <tr>
