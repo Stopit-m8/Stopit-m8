@@ -55,13 +55,13 @@ A 2D narrative psychological horror game that explores the subconscious mind of 
 <br>**Duration: 22 Days**
 
 <div align = center>
-  <a href="YOUR_DOCUMENTATION_LINK">
+  <a href="https://github.com/Stopit-m8/GameToday2026">
     <img src="https://img.shields.io/badge/📖%20Documentation-555555?style=for-the-badge" height="30">
   </a>
 </div>
 
 <div align="center">
-  <a href="https://stopitm8.itch.io/tan-go">
+  <a href="https://astranot09.itch.io/karoshi-the-perfect-shell">
     <img src="https://static.itch.io/images/badge-color.svg" width="120">
   </a>
 </div>
@@ -86,13 +86,13 @@ A 2D Platformer Action Shooter, Where players play as Rogue AI Military Mech
 <br>**Duration: 7 Days**
 
 <div align = center>
-  <a href="YOUR_DOCUMENTATION_LINK">
+  <a href="https://github.com/Stopit-m8/Cold-Core">
     <img src="https://img.shields.io/badge/📖%20Documentation-555555?style=for-the-badge" height="30">
   </a>
 </div>
 
 <div align="center">
-  <a href="https://stopitm8.itch.io/tan-go">
+  <a href="https://stopitm8.itch.io/cold-core">
     <img src="https://static.itch.io/images/badge-color.svg" width="120">
   </a>
 </div>
@@ -115,13 +115,13 @@ A 2D platformer where the player can shoot a ball that can make them teleport on
 <br>**Duration: 7 Days**
 
 <div align = center>
-  <a href="YOUR_DOCUMENTATION_LINK">
+  <a href="https://github.com/Stopit-m8/TP-Jumper">
     <img src="https://img.shields.io/badge/📖%20Documentation-555555?style=for-the-badge" height="30">
   </a>
 </div>
 
 <div align="center">
-  <a href="https://stopitm8.itch.io/tan-go">
+  <a href="https://stopitm8.itch.io/tp-jumper">
     <img src="https://static.itch.io/images/badge-color.svg" width="120">
   </a>
 </div>
